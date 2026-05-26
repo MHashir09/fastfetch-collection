@@ -52,8 +52,23 @@
 
 <td>
   
-<img width="980" height="414" alt="5" src="https://github.com/user-attachments/assets/e4198aa2-e4a4-48b7-98b7-8df8bddba296" />
+<img width="980" height="414" alt="6" src="https://github.com/user-attachments/assets/338b887d-4da1-485e-837f-cf0a0e35341f" />
 
+</td>
+
+<td>
+
+## [config.jsonc](configs/6.jsonc)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+  
+<img width="980" height="414" alt="5" src="https://github.com/user-attachments/assets/e4198aa2-e4a4-48b7-98b7-8df8bddba296" />
 
 </td>
 
@@ -68,19 +83,18 @@
 <tr>
 
 <td>
-  
-<img width="980" height="414" alt="6" src="https://github.com/user-attachments/assets/338b887d-4da1-485e-837f-cf0a0e35341f" />
+
+<img width="980" height="414" alt="image" src="https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87" />
 
 </td>
 
 <td>
 
-## [config.jsonc](configs/6.jsonc)
+## [config.jsonc]()
 
 </td>
 
 </tr>
-
   
 </table>
 
