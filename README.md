@@ -23,6 +23,12 @@
 
 </td>
 
+<td>
+
+## [config.jsonc](configs/2.jsonc)
+
+</td>
+
 </tr>
 
   
