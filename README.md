@@ -25,7 +25,7 @@
 
 <td>
 
-## [config.jsonc](configs/2.jsonc)
+### [config.jsonc](configs/2.jsonc)
 
 </td>
 
@@ -37,7 +37,7 @@
 ---
 
 >[!note]
->## Pokémon card collection : [Tap to view](https://www.kaggle.com/datasets/ellimaaac/pokemon-tcg-all-image-cards)
->## for more fastfetch jsonc : [visit discussions](https://github.com/fastfetch-cli/fastfetch/discussions/971)
+>### Pokémon card collection : [Tap to view](https://www.kaggle.com/datasets/ellimaaac/pokemon-tcg-all-image-cards)
+>### for more fastfetch jsonc : [visit discussions](https://github.com/fastfetch-cli/fastfetch/discussions/971)
 
 ---
