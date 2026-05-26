@@ -5,7 +5,6 @@
 >- This project is a community-driven collection of custom `fastfetch` `config.jsonc` files made by users for users.
 >- Whether your config is minimal, anime-themed, cyberpunk, clean, chaotic, or completely cursed — it’s welcome here.
 
----
 
 ## Folder Structure
 
@@ -28,7 +27,6 @@ configs/
 ├── number.jsonc
 </pre>
 
----
 
 ## Naming Rules
 
@@ -40,21 +38,20 @@ Keep folder names:
 
 Good:
 
-```text
+<pre>
 minimal-black
 catppuccin-mocha
 retro-neofetch-style
-```
+</pre>
 
 Bad:
 
-```text
+<pre>
 MyCoolConfigFINALv2
 asdf123
 NEW_THEME!!!
-```
+</pre>
 
----
 
 ## How to Contribute
 
@@ -64,7 +61,6 @@ NEW_THEME!!!
 4. Commit your changes and also update main readme.md
 5. Open a Pull Request
 
----
 
 ## Rules
 
@@ -74,7 +70,6 @@ NEW_THEME!!!
 - No NSFW content
 - Test your config before submitting
 
----
 
 ## Credits
 
@@ -82,7 +77,6 @@ NEW_THEME!!!
 
 - By contributing, you agree that your config can be shared and modified inside this repository.
 
----
 
 ## Extra
 
@@ -95,8 +89,12 @@ If your config depends on:
 
 Please mention them in your folder `README.md`.
 
----
 
 ## Thank You
 
->Every contribution helps build a bigger and better collection for the Fastfetch community.
+- Every contribution helps build a bigger and better collection for the Fastfetch community.
+
+---
+
+> [!NOTE]
+> If you have any doubt, just open a discussion; I am always here to answer. 
