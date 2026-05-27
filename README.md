@@ -140,7 +140,7 @@ configs/7.jsonc
 
 <td>
 
-## [config.jsonc](configs/configs/7.jsonc)
+## [config.jsonc](configs/7.jsonc)
 
 </td>
 
