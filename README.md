@@ -123,7 +123,7 @@
 <td>
 
 ## [config.jsonc](configs/tf2soldier-config)
-configs/7.jsonc
+
 </td>
 
 </tr>
